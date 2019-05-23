@@ -6,3 +6,4 @@ A Google Plug-in for QR Code Generation
 ### 不通过商店下载使用
 1. 将项目clone到本地。
 2. 更多工具 --> 拓展程序 --> 开发者模式 --> 加载已解压的拓展程序 --> 选择clone文件即可使用
+3. [插件开发参考文章](https://github.com/sxei/chrome-plugin-demo)
