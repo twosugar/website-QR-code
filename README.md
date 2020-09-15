@@ -1,6 +1,6 @@
 # website-QR-code
-A Google Plug-in for QR Code Generation
 基于当前页面，快速生成二维码的一个谷歌插件（拓展）
+A Google Plug-in for QR Code Generation
 ### 通过商店下载使用
 暂无
 ### 不通过商店下载使用
